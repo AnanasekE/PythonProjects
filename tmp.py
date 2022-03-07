@@ -1,3 +1,3 @@
-num = 123
-num = list(num)
-print(num)
+arr = ['lul', 'lol', 'xd']
+for i in arr:
+    print(i)
