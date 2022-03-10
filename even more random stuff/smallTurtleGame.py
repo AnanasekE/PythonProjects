@@ -38,8 +38,10 @@ turtle.onkey(t2forward, "w")
 turtle.onkey(t2right, "d")
 turtle.onkey(t2left, "a")
 turtle.listen()
-rand = randrange(0,255)
-t1.color(rand, rand, rand)
+rand1 = randrange(0,255)
+rand2 = randrange(0,255)
+rand3  = randrange(0,255)
+t1.color('blue')
 while True:
     if t1.xcor() >= 200:
         turtle.Screen().bye()
