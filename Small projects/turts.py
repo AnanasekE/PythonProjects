@@ -9,23 +9,35 @@ turtle.Screen().setup(600, 600)
 
 
 def line(length):
-    turtle.fd(length)
-    turtle.left(60)
-    turtle.fd(length)
-    turtle.right(120)
-    turtle.fd(length)
-    turtle.left(60)
-    turtle.fd(length)
-    turtle.right(30)
-    if length < 1:
-        return
-    print(length)
-    return line(length * 0.99)
+    for i in range(12):
+        turtle.fd(length)
+        turtle.left(60)
+        turtle.fd(length)
+        turtle.right(120)
+        turtle.fd(length)
+        turtle.left(60)
+        turtle.fd(length)
+        turtle.right(30)
 
+def saw(length):
+    turtle.shape('turtle')
+    for i in range(12):
+        turtle.fd(length)
+        turtle.left(60)
+        turtle.fd(length)
+        turtle.right(120)
+        turtle.fd(length)
+        turtle.right(30)
+        turtle.fd(length)
+        turtle.left(60)
+        # turtle.home()
 
-print(line(20))
+    turtle.circle(50)
 
+saw(20)
+# print(line(20))
 
 time.sleep(1)
 
 turtle.done()
+
