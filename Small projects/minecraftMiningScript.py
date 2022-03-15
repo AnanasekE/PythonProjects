@@ -1,15 +1,6 @@
 import pyautogui as pag
 import keyboard
-import pynput
 import time
-
-
-# mouse = pynput.mouse.Controller()
-# mouse.move(10, 10)
-
-
-# wh = pag.size()
-# print(wh)
 
 
 def square3x3():

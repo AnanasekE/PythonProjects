@@ -35,7 +35,7 @@ def saw(length):
     turtle.circle(50)
 
 saw(20)
-# print(line(20))
+# line(20)
 
 time.sleep(1)
 
