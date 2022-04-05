@@ -3,10 +3,10 @@
 def search(bucketIncrement):
     for number in arr:
         bucket = int((number - min(arr)) / bucketIncrement)
-        print((number - min(arr)) / bucketIncrement)
+        # print((number - min(arr)) / bucketIncrement)
         if number == max(arr):
             bucket -= 1
-        print(bucket, arrOut[bucket], number)
+        # print(bucket, arrOut[bucket], number)
         arrOut[bucket].append(number)
 
 
@@ -25,4 +25,6 @@ search(bucketIncrement)
 for f in range(bucketCount):
     arrOut[f].sort()
 
-print(arrOut)
+
+for h in range(bucketCount):
+    print(arrOut[h])
