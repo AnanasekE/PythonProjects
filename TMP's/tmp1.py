@@ -1,5 +1,6 @@
-#def's
+# def's
 list1 = []
+
 
 def merge(arr, left, right):
     i = 0
@@ -44,11 +45,12 @@ def mergeSort(arr):
         merge(arr, left, right)
         return arr
 
+
 # wczytywanie imienia, nazwiska i oceny
 cls = int(input())
-arr = []
 state = True
 for i in range(cls):
+    arr = []
     state = True
     while state:
         personInput = input()
@@ -56,11 +58,15 @@ for i in range(cls):
             state = False
         personInput = personInput.split()
 
-
         arr.append(personInput)
         if arr[-1][0] == '-':
             arr.pop(-1)
 
-#
 
-print(arr)
+#
+    mergeSort(arr)
+
+
+
+
+#
