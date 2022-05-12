@@ -1,0 +1,1356 @@
+{
+  "entries": [
+    {
+      "item": "alexsmobs:animal_dictionary",
+      "emc": 1
+    },
+    {
+      "item": "tconstruct:materials_and_you",
+      "emc": 1
+    },
+    {
+      "item": "theoneprobe:probenote",
+      "emc": 1
+    },
+    {
+      "item": "ars_nouveau:worn_notebook",
+      "emc": 1
+    },
+    {
+      "item": "integrateddynamics:on_the_dynamics_of_integration",
+      "emc": 1
+    },
+    {
+      "item": "chisel:marble/raw",
+      "emc": 1
+    },
+    {
+      "item": "chisel:limestone/raw",
+      "emc": 1
+    },
+    {
+      "item": "chisel:basalt/raw",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:blaze_rod",
+      "emc": 1536
+    },
+    {
+      "item": "minecraft:blaze_powder",
+      "emc": 128
+    },
+    {
+      "item": "ars_nouveau:mana_gem",
+      "emc": 8192
+    },
+    {
+      "item": "create:zinc_ingot",
+      "emc": 256
+    },
+    {
+      "item": "create:brass_ingot",
+      "emc": 256
+    },
+    {
+      "item": "industrialforegoing:plastic",
+      "emc": 256
+    },
+    {
+      "item": "thermal:enderium_ingot",
+      "emc": 5947
+    },
+    {
+      "item": "create:limestone_cobblestone",
+      "emc": 1
+    },
+    {
+      "item": "create:limestone",
+      "emc": 16
+    },
+    {
+      "item": "cavesandcliffs:glow_berries",
+      "emc": 16
+    },
+    {
+      "item": "cavesandcliffs:azalea_leaves",
+      "emc": 1
+    },
+    {
+      "item": "cavesandcliffs:amethyst_block",
+      "emc": 32
+    },
+    {
+      "item": "cavesandcliffs:deepslate",
+      "emc": 8
+    },
+    {
+      "item": "cavesandcliffs:cobbled_deepslate",
+      "emc": 8
+    },
+    {
+      "item": "cavesandcliffs:calcite",
+      "emc": 16
+    },
+    {
+      "item": "cavesandcliffs:tuff",
+      "emc": 1
+    },
+    {
+      "item": "cavesandcliffs:dripstone_block",
+      "emc": 8
+    },
+    {
+      "item": "cavesandcliffs:rooted_dirt",
+      "emc": 1
+    },
+    {
+      "item": "cavesandcliffs:glow_ink_sac",
+      "emc": 32
+    },
+    {
+      "item": "cavesandcliffs:spore_blossom",
+      "emc": 32
+    },
+    {
+      "item": "cavesandcliffs:moss_block",
+      "emc": 1
+    },
+    {
+      "item": "cavesandcliffs:amethyst_shard",
+      "emc": 32
+    },
+    {
+      "item": "thermal:niter",
+      "emc": 128
+    },
+    {
+      "item": "thermal:sulfur",
+      "emc": 128
+    },
+    {
+      "item": "thermal:apatite",
+      "emc": 128
+    },
+    {
+      "item": "thermal:cinnabar",
+      "emc": 256
+    },
+    {
+      "item": "druidcraft:fiery_glass",
+      "emc": 128
+    },
+    {
+      "item": "quark:marble",
+      "emc": 1
+    },
+    {
+      "item": "quark:limestone",
+      "emc": 1
+    },
+    {
+      "item": "quark:jasper",
+      "emc": 1
+    },
+    {
+      "item": "quark:slate",
+      "emc": 1
+    },
+    {
+      "item": "quark:basalt",
+      "emc": 1
+    },
+    {
+      "item": "quark:myalite",
+      "emc": 1
+    },
+    {
+      "item": "create:weathered_limestone",
+      "emc": 16
+    },
+    {
+      "item": "quark:elder_prismarine",
+      "emc": 1024
+    },
+    {
+      "item": "quark:brimstone",
+      "emc": 16
+    },
+    {
+      "item": "integrateddynamics:menril_berries",
+      "emc": 8
+    },
+    {
+      "item": "byg:scoria_cobblestone",
+      "emc": 49
+    },
+    {
+      "item": "quark:root_item",
+      "emc": 64
+    },
+    {
+      "item": "byg:anthracite",
+      "emc": 128
+    },
+    {
+      "item": "betternether:cincinnasite",
+      "emc": 384
+    },
+    {
+      "item": "minecraft:shroomlight",
+      "emc": 64
+    },
+    {
+      "item": "rftoolsbase:dimensionalshard",
+      "emc": 0
+    },
+    {
+      "item": "projectred-core:silicon",
+      "emc": 145
+    },
+    {
+      "item": "betternether:nether_reed",
+      "emc": 32
+    },
+    {
+      "item": "betternether:nether_ruby",
+      "emc": 256
+    },
+    {
+      "item": "tconstruct:clear_glass",
+      "emc": 1
+    },
+    {
+      "item": "draconicevolution:draconium_ingot",
+      "emc": 16380
+    },
+    {
+      "item": "byg:purple_sand",
+      "emc": 16
+    },
+    {
+      "item": "byg:white_sand",
+      "emc": 16
+    },
+    {
+      "item": "byg:blue_sand",
+      "emc": 16
+    },
+    {
+      "item": "byg:pink_sand",
+      "emc": 16
+    },
+    {
+      "item": "byg:black_sand",
+      "emc": 16
+    },
+    {
+      "item": "crumbs:cobbled_andesite",
+      "emc": 16
+    },
+    {
+      "item": "tconstruct:sky_slime_ball",
+      "emc": 32
+    },
+    {
+      "item": "tconstruct:ender_slime_ball",
+      "emc": 32
+    },
+    {
+      "item": "tconstruct:blood_slime_ball",
+      "emc": 32
+    },
+    {
+      "item": "byg:peat",
+      "emc": 1
+    },
+    {
+      "item": "byg:meadow_grass_block",
+      "emc": 1
+    },
+    {
+      "item": "byg:meadow_grass_path",
+      "emc": 1
+    },
+    {
+      "item": "byg:meadow_dirt",
+      "emc": 1
+    },
+    {
+      "item": "byg:glowcelium_block",
+      "emc": 1
+    },
+    {
+      "item": "byg:overgrown_dacite",
+      "emc": 1
+    },
+    {
+      "item": "byg:overgrown_stone",
+      "emc": 1
+    },
+    {
+      "item": "byg:podzol_dacite",
+      "emc": 1
+    },
+    {
+      "item": "cavesandcliffs:azalea",
+      "emc": 16
+    },
+    {
+      "item": "cavesandcliffs:big_dripleaf",
+      "emc": 16
+    },
+    {
+      "item": "cavesandcliffs:small_dripleaf",
+      "emc": 8
+    },
+    {
+      "item": "cavesandcliffs:glow_lichen",
+      "emc": 8
+    },
+    {
+      "item": "cavesandcliffs:hanging_roots",
+      "emc": 8
+    },
+    {
+      "item": "tconstruct:ichor_slime_ball",
+      "emc": 32
+    },
+    {
+      "item": "ars_nouveau:wilden_horn",
+      "emc": 192
+    },
+    {
+      "item": "druidcraft:chitin",
+      "emc": 1536
+    },
+    {
+      "item": "ars_nouveau:wilden_wing",
+      "emc": 144
+    },
+    {
+      "item": "betternether:quartz_glass",
+      "emc": 256
+    },
+    {
+      "item": "cyclic:gem_amber",
+      "emc": 1435
+    },
+    {
+      "item": "cyclic:gem_obsidian",
+      "emc": 18075
+    },
+    {
+      "item": "integrateddynamics:crystalized_menril_chunk",
+      "emc": 4
+    },
+    {
+      "item": "integrateddynamics:crystalized_chorus_chunk",
+      "emc": 96
+    },
+    {
+      "item": "integratedterminals:menril_glass",
+      "emc": 32
+    },
+    {
+      "item": "integratedterminals:chorus_glass",
+      "emc": 1536
+    },
+    {
+      "item": "draconicevolution:awakened_draconium_ingot",
+      "emc": 60975
+    },
+    {
+      "item": "tiab:timeinabottle",
+      "emc": 0
+    },
+    {
+      "item": "fluxnetworks:flux_dust",
+      "emc": 64
+    },
+    {
+      "item": "tconstruct:cobalt_ingot",
+      "emc": 11520
+    },
+    {
+      "item": "ars_nouveau:mana_bloom_crop",
+      "emc": 32784
+    },
+    {
+      "item": "tconstruct:blood_slime_grass_seeds",
+      "emc": 1
+    },
+    {
+      "item": "tconstruct:earth_slime_grass_seeds",
+      "emc": 1
+    },
+    {
+      "item": "tconstruct:sky_slime_grass_seeds",
+      "emc": 1
+    },
+    {
+      "item": "tconstruct:ender_slime_grass_seeds",
+      "emc": 1
+    },
+    {
+      "item": "tconstruct:earth_vanilla_slime_grass",
+      "emc": 1
+    },
+    {
+      "item": "tconstruct:sky_vanilla_slime_grass",
+      "emc": 1
+    },
+    {
+      "item": "tconstruct:ender_vanilla_slime_grass",
+      "emc": 1
+    },
+    {
+      "item": "tconstruct:earth_slime_tall_grass",
+      "emc": 1
+    },
+    {
+      "item": "tconstruct:sky_slime_tall_grass",
+      "emc": 1
+    },
+    {
+      "item": "tconstruct:ender_slime_tall_grass",
+      "emc": 1
+    },
+    {
+      "item": "tconstruct:blood_slime_tall_grass",
+      "emc": 1
+    },
+    {
+      "item": "tconstruct:blood_vanilla_slime_grass",
+      "emc": 1
+    },
+    {
+      "item": "tconstruct:blood_earth_slime_grass",
+      "emc": 1
+    },
+    {
+      "item": "tconstruct:blood_sky_slime_grass",
+      "emc": 1
+    },
+    {
+      "item": "tconstruct:blood_ender_slime_grass",
+      "emc": 1
+    },
+    {
+      "item": "tconstruct:blood_ichor_slime_grass",
+      "emc": 1
+    },
+    {
+      "item": "tconstruct:earth_earth_slime_grass",
+      "emc": 1
+    },
+    {
+      "item": "tconstruct:sky_earth_slime_grass",
+      "emc": 1
+    },
+    {
+      "item": "tconstruct:ender_earth_slime_grass",
+      "emc": 1
+    },
+    {
+      "item": "tconstruct:earth_sky_slime_grass",
+      "emc": 1
+    },
+    {
+      "item": "tconstruct:sky_sky_slime_grass",
+      "emc": 1
+    },
+    {
+      "item": "tconstruct:ender_sky_slime_grass",
+      "emc": 1
+    },
+    {
+      "item": "tconstruct:earth_ender_slime_grass",
+      "emc": 1
+    },
+    {
+      "item": "tconstruct:sky_ender_slime_grass",
+      "emc": 1
+    },
+    {
+      "item": "tconstruct:ender_ender_slime_grass",
+      "emc": 1
+    },
+    {
+      "item": "tconstruct:earth_ichor_slime_grass",
+      "emc": 1
+    },
+    {
+      "item": "tconstruct:sky_ichor_slime_grass",
+      "emc": 1
+    },
+    {
+      "item": "tconstruct:ender_ichor_slime_grass",
+      "emc": 1
+    },
+    {
+      "item": "tconstruct:earth_slime_dirt",
+      "emc": 1
+    },
+    {
+      "item": "tconstruct:sky_slime_dirt",
+      "emc": 1
+    },
+    {
+      "item": "tconstruct:ender_slime_dirt",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:air{tconstruct:\"slimy_soil\"}",
+      "emc": 1
+    },
+    {
+      "item": "tconstruct:ichor_slime_dirt",
+      "emc": 1
+    },
+    {
+      "item": "tconstruct:earth_slime_fern",
+      "emc": 1
+    },
+    {
+      "item": "tconstruct:sky_slime_fern",
+      "emc": 1
+    },
+    {
+      "item": "tconstruct:ender_slime_fern",
+      "emc": 1
+    },
+    {
+      "item": "tconstruct:blood_slime_fern",
+      "emc": 1
+    },
+    {
+      "item": "tconstruct:blood_slime_sapling",
+      "emc": 32
+    },
+    {
+      "item": "tconstruct:blood_slime_leaves",
+      "emc": 96
+    },
+    {
+      "item": "tconstruct:ender_slime_vine",
+      "emc": 8
+    },
+    {
+      "item": "tconstruct:sky_slime_vine",
+      "emc": 8
+    },
+    {
+      "item": "tconstruct:slimesteel_ingot",
+      "emc": 149
+    },
+    {
+      "item": "tconstruct:pig_iron_ingot",
+      "emc": 152
+    },
+    {
+      "item": "tconstruct:tinkers_bronze_ingot",
+      "emc": 128
+    },
+    {
+      "item": "tconstruct:rose_gold_ingot",
+      "emc": 608
+    },
+    {
+      "item": "supplementaries:flax_seeds",
+      "emc": 16
+    },
+    {
+      "item": "thermal:amaranth_seeds",
+      "emc": 16
+    },
+    {
+      "item": "thermal:bell_pepper_seeds",
+      "emc": 16
+    },
+    {
+      "item": "thermal:spinach_seeds",
+      "emc": 16
+    },
+    {
+      "item": "thermal:sadiroot_seeds",
+      "emc": 16
+    },
+    {
+      "item": "thermal:rice_seeds",
+      "emc": 16
+    },
+    {
+      "item": "thermal:radish_seeds",
+      "emc": 16
+    },
+    {
+      "item": "thermal:onion_seeds",
+      "emc": 16
+    },
+    {
+      "item": "thermal:flax_seeds",
+      "emc": 16
+    },
+    {
+      "item": "thermal:tea_seeds",
+      "emc": 16
+    },
+    {
+      "item": "thermal:hops_seeds",
+      "emc": 16
+    },
+    {
+      "item": "thermal:tomato_seeds",
+      "emc": 16
+    },
+    {
+      "item": "thermal:strawberry_seeds",
+      "emc": 16
+    },
+    {
+      "item": "thermal:peanut_seeds",
+      "emc": 16
+    },
+    {
+      "item": "thermal:green_bean_seeds",
+      "emc": 16
+    },
+    {
+      "item": "thermal:eggplant_seeds",
+      "emc": 16
+    },
+    {
+      "item": "thermal:corn_seeds",
+      "emc": 16
+    },
+    {
+      "item": "thermal:barley_seeds",
+      "emc": 16
+    },
+    {
+      "item": "druidcraft:hemp_seeds",
+      "emc": 16
+    },
+    {
+      "item": "thermal:frost_melon_seeds",
+      "emc": 16
+    },
+    {
+      "item": "betternether:ink_bush_seed",
+      "emc": 16
+    },
+    {
+      "item": "betterendforge:blue_vine_seed",
+      "emc": 16
+    },
+    {
+      "item": "betterendforge:end_lily_seed",
+      "emc": 16
+    },
+    {
+      "item": "betterendforge:end_lotus_seed",
+      "emc": 16
+    },
+    {
+      "item": "betterendforge:lanceleaf_seed",
+      "emc": 16
+    },
+    {
+      "item": "betterendforge:lumecorn_seed",
+      "emc": 16
+    },
+    {
+      "item": "betterendforge:glowing_pillar_seed",
+      "emc": 16
+    },
+    {
+      "item": "betterendforge:shadow_berry",
+      "emc": 16
+    },
+    {
+      "item": "betterendforge:blossom_berry_seed",
+      "emc": 16
+    },
+    {
+      "item": "betterendforge:amber_root_seed",
+      "emc": 16
+    },
+    {
+      "item": "betterendforge:chorus_mushroom_seed",
+      "emc": 16
+    },
+    {
+      "item": "betterendforge:bulb_vine_seed",
+      "emc": 16
+    },
+    {
+      "item": "nourished_end:chorus_sprouts",
+      "emc": 16
+    },
+    {
+      "item": "betternether:stalagnate_seed",
+      "emc": 16
+    },
+    {
+      "item": "betternether:eye_seed",
+      "emc": 16
+    },
+    {
+      "item": "betternether:lumabus_seed",
+      "emc": 16
+    },
+    {
+      "item": "betternether:golden_lumabus_seed",
+      "emc": 16
+    },
+    {
+      "item": "betternether:wart_seed",
+      "emc": 16
+    },
+    {
+      "item": "betternether:black_apple_seed",
+      "emc": 16
+    },
+    {
+      "item": "betternether:magma_flower",
+      "emc": 16
+    },
+    {
+      "item": "betternether:whispering_gourd_vine",
+      "emc": 16
+    },
+    {
+      "item": "nourished_nether:souldew_melon_seed",
+      "emc": 16
+    },
+    {
+      "item": "betternether:agave",
+      "emc": 16
+    },
+    {
+      "item": "tconstruct:cobalt_ingot",
+      "emc": 11520
+    },
+    {
+      "item": "tconstruct:manyullyn_ingot",
+      "emc": 11712
+    },
+    {
+      "item": "tconstruct:hepatizon_ingot",
+      "emc": 6400
+    },
+    {
+      "item": "tconstruct:queens_slime_ingot",
+      "emc": 6864
+    },
+    {
+      "item": "betterendforge:thallasium_ingot",
+      "emc": 256
+    },
+    {
+      "item": "betterendforge:terminite_ingot",
+      "emc": 1280
+    },
+    {
+      "item": "betternether:glowstone_stalactite",
+      "emc": 384
+    },
+    {
+      "item": "minecraft:dragon_breath",
+      "emc": 49152
+    },
+    {
+      "item": "tconstruct:stray_head",
+      "emc": 256
+    },
+    {
+      "item": "tconstruct:drowned_head",
+      "emc": 256
+    },
+    {
+      "item": "tconstruct:husk_head",
+      "emc": 256
+    },
+    {
+      "item": "tconstruct:enderman_head",
+      "emc": 2048
+    },
+    {
+      "item": "tconstruct:blaze_head",
+      "emc": 1536
+    },
+    {
+      "item": "tconstruct:piglin_head",
+      "emc": 256
+    },
+    {
+      "item": "tconstruct:piglin_brute_head",
+      "emc": 256
+    },
+    {
+      "item": "tconstruct:zombified_piglin_head",
+      "emc": 256
+    },
+    {
+      "item": "tconstruct:spider_head",
+      "emc": 256
+    },
+    {
+      "item": "tconstruct:cave_spider_head",
+      "emc": 256
+    },
+    {
+      "item": "minecraft:dragon_head",
+      "emc": 4096
+    },
+    {
+      "item": "minecraft:sugar",
+      "emc": 6
+    },
+    {
+      "item": "betternether:willow_torch",
+      "emc": 21
+    },
+    {
+      "item": "betternether:rubeus_cone",
+      "emc": 245
+    },
+    {
+      "item": "powah:uraninite_raw_poor",
+      "emc": 2048
+    },
+    {
+      "item": "#kubeemc:lily",
+      "emc": 16
+    },
+    {
+      "item": "#kubeemc:stem",
+      "emc": 8
+    },
+    {
+      "item": "#kubeemc:stone",
+      "emc": 1
+    },
+    {
+      "item": "#forge:end_stones",
+      "emc": 1
+    },
+    {
+      "item": "betterendforge:dragon_bone_block",
+      "emc": 434
+    },
+    {
+      "item": "betterendforge:crystal_shards",
+      "emc": 8
+    },
+    {
+      "item": "betterendforge:glowing_bulb",
+      "emc": 4
+    },
+    {
+      "item": "betterendforge:lumecorn_rod",
+      "emc": 4
+    },
+    {
+      "item": "betterendforge:hydralux_petal",
+      "emc": 4
+    },
+    {
+      "item": "betterendforge:amber_gem",
+      "emc": 16
+    },
+    {
+      "item": "betterendforge:aeternium_ingot",
+      "emc": 58619
+    },
+    {
+      "item": "betterendforge:glowing_pillar_luminophor",
+      "emc": 16
+    },
+    {
+      "item": "betterendforge:mossy_glowshroom_cap",
+      "emc": 16
+    },
+    {
+      "item": "betterendforge:mossy_glowshroom_hymenophore",
+      "emc": 16
+    },
+    {
+      "item": "betterendforge:neon_cactus",
+      "emc": 8
+    },
+    {
+      "item": "endergetic:poismoss",
+      "emc": 1
+    },
+    {
+      "item": "endergetic:poise_cluster",
+      "emc": 8
+    },
+    {
+      "item": "crumbs:cobbled_diorite",
+      "emc": 16
+    },
+    {
+      "item": "crumbs:cobbled_granite",
+      "emc": 16
+    },
+    {
+      "item": "#chipped:granite",
+      "emc": 16
+    },
+    {
+      "item": "#chipped:diorite",
+      "emc": 16
+    },
+    {
+      "item": "#chipped:andesite",
+      "emc": 16
+    },
+    {
+      "item": "#chipped:prismarine",
+      "emc": 1024
+    },
+    {
+      "item": "#chipped:dark_prismarine",
+      "emc": 2064
+    },
+    {
+      "item": "#chipped:purpur_block",
+      "emc": 192
+    },
+    {
+      "item": "#chipped:quartz_block",
+      "emc": 1024
+    },
+    {
+      "item": "#chipped:sandstone",
+      "emc": 4
+    },
+    {
+      "item": "#chipped:red_sandstone",
+      "emc": 4
+    },
+    {
+      "item": "#chipped:nether_bricks",
+      "emc": 4
+    },
+    {
+      "item": "#chipped:red_nether_bricks",
+      "emc": 50
+    },
+    {
+      "item": "#chipped:stone",
+      "emc": 1
+    },
+    {
+      "item": "#chipped:cobblestone",
+      "emc": 1
+    },
+    {
+      "item": "#chipped:netherrack",
+      "emc": 1
+    },
+    {
+      "item": "#chipped:gilded_blackstone",
+      "emc": 1820
+    },
+    {
+      "item": "#chipped:blackstone",
+      "emc": 4
+    },
+    {
+      "item": "#chipped:basalt",
+      "emc": 4
+    },
+    {
+      "item": "#chipped:white_terracotta",
+      "emc": 64
+    },
+    {
+      "item": "#chipped:white_concrete",
+      "emc": 3
+    },
+    {
+      "item": "#chipped:orange_terracotta",
+      "emc": 66
+    },
+    {
+      "item": "#chipped:magenta_terracotta",
+      "emc": 65
+    },
+    {
+      "item": "#chipped:magenta_concrete",
+      "emc": 4
+    },
+    {
+      "item": "#chipped:light_blue_terracotta",
+      "emc": 65
+    },
+    {
+      "item": "#chipped:light_blue_concrete",
+      "emc": 3
+    },
+    {
+      "item": "#chipped:yellow_terracotta",
+      "emc": 66
+    },
+    {
+      "item": "#chipped:yellow_concrete",
+      "emc": 4
+    },
+    {
+      "item": "#chipped:lime_terracotta",
+      "emc": 64
+    },
+    {
+      "item": "#chipped:lime_concrete",
+      "emc": 3
+    },
+    {
+      "item": "#chipped:pink_terracotta",
+      "emc": 65
+    },
+    {
+      "item": "#chipped:pink_concrete",
+      "emc": 3
+    },
+    {
+      "item": "#chipped:gray_terracotta",
+      "emc": 65
+    },
+    {
+      "item": "#chipped:gray_concrete",
+      "emc": 3
+    },
+    {
+      "item": "#chipped:light_gray_terracotta",
+      "emc": 64
+    },
+    {
+      "item": "#chipped:light_gray_concrete",
+      "emc": 3
+    },
+    {
+      "item": "#chipped:cyan_terracotta",
+      "emc": 64
+    },
+    {
+      "item": "#chipped:cyan_concrete",
+      "emc": 2
+    },
+    {
+      "item": "#chipped:purple_terracotta",
+      "emc": 66
+    },
+    {
+      "item": "#chipped:purple_concrete",
+      "emc": 4
+    },
+    {
+      "item": "#chipped:blue_terracotta",
+      "emc": 66
+    },
+    {
+      "item": "#chipped:blue_concrete",
+      "emc": 4
+    },
+    {
+      "item": "#chipped:brown_terracotta",
+      "emc": 72
+    },
+    {
+      "item": "#chipped:brown_concrete",
+      "emc": 10
+    },
+    {
+      "item": "#chipped:green_terracotta",
+      "emc": 65
+    },
+    {
+      "item": "#chipped:green_concrete",
+      "emc": 3
+    },
+    {
+      "item": "#chipped:red_terracotta",
+      "emc": 66
+    },
+    {
+      "item": "#chipped:red_concrete",
+      "emc": 4
+    },
+    {
+      "item": "#chipped:black_terracotta",
+      "emc": 66
+    },
+    {
+      "item": "#chipped:black_concrete",
+      "emc": 4
+    },
+    {
+      "item": "#chipped:obsidian",
+      "emc": 64
+    },
+    {
+      "item": "#chipped:crying_obsidian",
+      "emc": 768
+    },
+    {
+      "item": "#chipped:glowstone",
+      "emc": 1536
+    },
+    {
+      "item": "#chipped:sea_lantern",
+      "emc": 3584
+    },
+    {
+      "item": "#chipped:shroomlight",
+      "emc": 64
+    },
+    {
+      "item": "#chipped:redstone_lamp",
+      "emc": 1792
+    },
+    {
+      "item": "#minecraft:carpets",
+      "emc": 32
+    },
+    {
+      "item": "#chipped:white_stained_glass",
+      "emc": 1
+    },
+    {
+      "item": "#chipped:orange_stained_glass",
+      "emc": 3
+    },
+    {
+      "item": "#chipped:magenta_stained_glass",
+      "emc": 2
+    },
+    {
+      "item": "#chipped:light_blue_stained_glass",
+      "emc": 2
+    },
+    {
+      "item": "#chipped:yellow_stained_glass",
+      "emc": 3
+    },
+    {
+      "item": "#chipped:lime_stained_glass",
+      "emc": 1
+    },
+    {
+      "item": "#chipped:pink_stained_glass",
+      "emc": 2
+    },
+    {
+      "item": "#chipped:gray_stained_glass",
+      "emc": 1
+    },
+    {
+      "item": "#chipped:light_gray_stained_glass",
+      "emc": 2
+    },
+    {
+      "item": "#chipped:cyan_stained_glass",
+      "emc": 1
+    },
+    {
+      "item": "#chipped:purple_stained_glass",
+      "emc": 3
+    },
+    {
+      "item": "#chipped:blue_stained_glass",
+      "emc": 3
+    },
+    {
+      "item": "#chipped:brown_stained_glass",
+      "emc": 9
+    },
+    {
+      "item": "#chipped:green_stained_glass",
+      "emc": 2
+    },
+    {
+      "item": "#chipped:red_stained_glass",
+      "emc": 3
+    },
+    {
+      "item": "#chipped:black_stained_glass",
+      "emc": 3
+    },
+    {
+      "item": "#chipped:clay",
+      "emc": 64
+    },
+    {
+      "item": "#chipped:dried_kelp_block",
+      "emc": 9
+    },
+    {
+      "item": "#chipped:hay_block",
+      "emc": 216
+    },
+    {
+      "item": "#chipped:melon",
+      "emc": 144
+    },
+    {
+      "item": "#chipped:vine",
+      "emc": 8
+    },
+    {
+      "item": "#chipped:warped_wart_block",
+      "emc": 96
+    },
+    {
+      "item": "#chipped:nether_wart_block",
+      "emc": 96
+    },
+    {
+      "item": "#chipped:soul_sand",
+      "emc": 49
+    },
+    {
+      "item": "#chipped:lily_pad",
+      "emc": 16
+    },
+    {
+      "item": "#chipped:lantern",
+      "emc": 228
+    },
+    {
+      "item": "#chipped:redstone_torch",
+      "emc": 68
+    },
+    {
+      "item": "#chipped:pumpkin",
+      "emc": 144
+    },
+    {
+      "item": "#chipped:jack_o_lantern",
+      "emc": 148
+    },
+    {
+      "item": "#chipped:carved_pumpkin",
+      "emc": 144
+    },
+    {
+      "item": "cavesandcliffs:pointed_dripstone",
+      "emc": 2
+    },
+    {
+      "item": "druidcraft:white_soulfire",
+      "emc": 8
+    },
+    {
+      "item": "minecraft:potion{Potion:\"minecraft:luck\"}",
+      "emc": 177
+    },
+    {
+      "item": "minecraft:farmland",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:mushroom_stem",
+      "emc": 16
+    },
+    {
+      "item": "minecraft:brown_mushroom_block",
+      "emc": 16
+    },
+    {
+      "item": "minecraft:red_mushroom_block",
+      "emc": 16
+    },
+    {
+      "item": "#chipped:brown_mushroom_block",
+      "emc": 16
+    },
+    {
+      "item": "#chipped:red_mushroom_block",
+      "emc": 16
+    },
+    {
+      "item": "byg:green_mushroom_block",
+      "emc": 16
+    },
+    {
+      "item": "byg:weeping_milkcap_mushroom_block",
+      "emc": 16
+    },
+    {
+      "item": "byg:wood_blewit_mushroom_block",
+      "emc": 16
+    },
+    {
+      "item": "byg:black_puff_mushroom_block",
+      "emc": 16
+    },
+    {
+      "item": "byg:white_mushroom_stem",
+      "emc": 16
+    },
+    {
+      "item": "byg:brown_mushroom_stem",
+      "emc": 16
+    },
+    {
+      "item": "byg:imparius_mushroom",
+      "emc": 32
+    },
+    {
+      "item": "#chipped:brown_mushroom",
+      "emc": 32
+    },
+    {
+      "item": "#chipped:red_mushroom",
+      "emc": 32
+    },
+    {
+      "item": "mcwwindows:white_mosaic_glass_pane",
+      "emc": 1
+    },
+    {
+      "item": "mcwwindows:lime_mosaic_glass_pane",
+      "emc": 1
+    },
+    {
+      "item": "mcwwindows:gray_mosaic_glass_pane",
+      "emc": 1
+    },
+    {
+      "item": "mcwwindows:light_gray_mosaic_glass_pane",
+      "emc": 1
+    },
+    {
+      "item": "mcwwindows:cyan_mosaic_glass_pane",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:dark_prismarine",
+      "emc": 1024
+    },
+    {
+      "item": "minecraft:furnace",
+      "emc": 8
+    },
+    {
+      "item": "minecraft:stone_pickaxe{Damage:0}",
+      "emc": 11
+    },
+    {
+      "item": "minecraft:torch",
+      "emc": 4
+    },
+    {
+      "item": "powah:dry_ice",
+      "emc": 100
+    },
+    {
+      "item": "minecraft:lever",
+      "emc": 2
+    }
+  ]
+}
