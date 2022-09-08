@@ -14,4 +14,4 @@ def merge(str1, str2):
     return arr
 
 
-print(merge('amogus', 'kot'))
+print(merge('amogus.py', 'kot'))
