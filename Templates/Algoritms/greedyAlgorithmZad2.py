@@ -1,6 +1,6 @@
 coins = [5, 3, 1]
-change = []
 money = int(input("Your Money: "))
+change = []
 i = 0
 
 while money >= 0 and i < len(coins):
