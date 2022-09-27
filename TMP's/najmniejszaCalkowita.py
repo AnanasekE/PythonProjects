@@ -16,4 +16,4 @@ for i in range(len(data)):
 
     print(data[i])
 
-# TODO less time
+
